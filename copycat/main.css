@@ -1,0 +1,21 @@
+ul {
+    list-style: none;
+    text-align: center;
+}
+li {
+    display: inline-block;
+    padding: 10px;
+    color: grey;
+}
+.icon {
+    image-rendering: auto;
+    color: grey;
+
+}
+nav {
+    background-color: black;
+}
+header {
+    text-align: center;
+    text-size-adjust: 80%;
+}
