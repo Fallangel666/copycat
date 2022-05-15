@@ -1,0 +1,42 @@
+ul {
+    list-style: none;
+    text-align: center;
+}
+li {
+    display: inline-block;
+    padding: 10px;
+    color: grey;
+}
+.icon {
+    image-rendering: auto;
+    color: grey;
+
+}
+nav {
+    background-color: black;
+}
+header {
+    text-align: center;
+    text-size-adjust: 80%;
+     font-size: 50px  ;
+     background-color: lightgray;
+}
+.pro {
+    text-align: center;
+    font-size: 50px;
+    padding: 60px;
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: column;
+}
+.btn-group {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+.threen {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
